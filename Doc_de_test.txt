@@ -1,2 +1,3 @@
 fichier texte pour test de commande de git.
 ajoute d'une ligne avant nouvel add de git suite commit déjà fait
+ajout pour travaille sur nouvelle branche
